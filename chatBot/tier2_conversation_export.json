@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "start_time": "2025-12-03T19:55:49.168395",
+    "end_time": "2025-12-03T20:07:40.499531",
+    "duration": "0:11:51",
+    "total_messages": 2
+  },
+  "summary": {
+    "total_exchanges": 1,
+    "total_messages": 2,
+    "user_messages": 1,
+    "bot_messages": 1,
+    "duration": "0:11:51"
+  },
+  "statistics": {
+    "total_messages": 2,
+    "average_polarity": 0.0,
+    "polarity_range": [
+      0.0,
+      0.0
+    ],
+    "polarity_std_dev": 0.0,
+    "average_subjectivity": 0.0,
+    "sentiment_distribution": {
+      "NEUTRAL": 2
+    },
+    "emotional_tone_distribution": {
+      "neutral": 2
+    },
+    "trend": "STABLE",
+    "trend_emoji": "📊",
+    "overall_mood": "Neutral & Balanced"
+  },
+  "messages": [
+    {
+      "speaker": "User",
+      "message": "hello",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0,
+        "classification": "NEUTRAL",
+        "emoji": "😐",
+        "confidence": 0.0,
+        "emotional_tone": "neutral",
+        "timestamp": "2025-12-03T19:57:13.452518"
+      },
+      "timestamp": "2025-12-03T19:57:13.452538"
+    },
+    {
+      "speaker": "Bot",
+      "message": "Hello there! How can I help you today?",
+      "sentiment": {
+        "polarity": 0.0,
+        "subjectivity": 0.0,
+        "classification": "NEUTRAL",
+        "emoji": "😐",
+        "confidence": 0.0,
+        "emotional_tone": "neutral",
+        "timestamp": "2025-12-03T19:57:16.682351"
+      },
+      "timestamp": "2025-12-03T19:57:16.682367"
+    }
+  ]
+}
